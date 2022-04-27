@@ -1,1 +1,1 @@
-<?php include_once("about.html"); ?>
+<?php inlcuir_uma vez("about.html"); ?>
